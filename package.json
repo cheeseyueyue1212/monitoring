@@ -1,0 +1,21 @@
+{
+  "name": "cheese-test",
+  "version": "1.0.0",
+  "description": "cheese first npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cheeseyueyue1212"
+  },
+  "keywords": [
+    "19880913aa."
+  ],
+  "author": "cheeseyueyue1212",
+  "license": "ISC",
+  "dependencies": {
+    "cheese-test": "^1.0.0"
+  }
+}
