@@ -1,4 +1,10 @@
-var test_npm = require('cheese-test');
-console.log(test_npm)
-console.log(test_npm.f1(11));
-console.log(test_npm.name)
+function npmDemo(argument) {
+	var name = 'finit';
+	var f2 =function f(arg){console.log(arg)}
+	return {
+		name:name,
+		f2:f2
+	}
+}
+module.exports=npmDemo();
+
